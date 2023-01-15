@@ -3,7 +3,8 @@
 ## Steps
  
  1. Copy the code from the file yoast-faq-accordion-bootstrap4 from this repo
- 2. Paste the code in **functions.php** file.
+ 2. Paste the code in **functions.php** file.\
+ 3. See the Demo [Demo Here](https://www.listspk.com/bellagio-by-sadaf)
 
 
 -------------------------------------------------------------------
